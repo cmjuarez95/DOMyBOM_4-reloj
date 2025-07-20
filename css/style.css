@@ -2,7 +2,9 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background: linear-gradient(45deg, #00070e, #01796d); /* azul oscuro → turquesa */
 }
+
 
 main{
     flex-grow: 1; 
